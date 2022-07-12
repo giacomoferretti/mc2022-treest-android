@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Maledetta TreEst</string>
+
+    <!-- Titles -->
+    <string name="welcome">Benvenuto!</string>
+    <string name="choose_board">Scegli una tratta tra le seguenti</string>
+    <string name="first_time_message">Benvenuto! Come ti dobbiamo chiamare?</string>
+    <string name="button_looks_good">Va bene così!</string>
+    <string name="title_where_are_we_going_today">Dove si va oggi?</string>
+
+    <!-- Input hints -->
+    <string name="hint_name">Nome</string>
+    <string name="hint_comment">Commento</string>
+    <string name="hint_delay">Ritardo</string>
+    <string name="hint_status">Stato</string>
+
+    <!-- Content descriptions -->
+    <string name="cd_board_list">Board List</string>
+    <string name="cd_user_profile_picture">User profile picture</string>
+    <string name="cd_post_list">Post list</string>
+
+    <!-- Enums -->
+    <string name="enum_delay_ON_TIME">In orario</string>
+    <string name="enum_delay_MINOR">Ritardo di pochi minuti</string>
+    <string name="enum_delay_MAJOR">Ritardo di oltre 15 minuti</string>
+    <string name="enum_delay_CANCELLED">Treni soppressi</string>
+    <string-array name="enum_delay_array">
+        <item>@string/enum_delay_ON_TIME</item>
+        <item>@string/enum_delay_MINOR</item>
+        <item>@string/enum_delay_MAJOR</item>
+        <item>@string/enum_delay_CANCELLED</item>
+    </string-array>
+    <string name="enum_status_IDEAL">Situazione ideale</string>
+    <string name="enum_status_ACCEPTABLE">Situazione accettabile</string>
+    <string name="enum_status_HAS_PROBLEMS">Gravi problemi per i passeggeri</string>
+    <string name="publishing_in">Stai pubblicando in: %1$s</string>
+    <string name="whats_going_on">Che succede?</string>
+    <string name="publish">Pubblica</string>
+    <string name="offline_title">Sembra che tu sia offline</string>
+    <string name="offline_subtitle">Collegati a Internet per vedere qui le informazioni locali</string>
+    <string name="offline_button">Prova a collegarti</string>
+    <string name="menu_feed">Feed</string>
+    <string name="menu_new">Nuovo</string>
+    <string name="menu_profile">Profilo</string>
+    <string name="go_back">Torna indietro</string>
+    <string name="retry_error">C\'è stato un errore, riprova.</string>
+    <string name="profile_updated">Profilo aggiornato!</string>
+    <string name="image_too_big">Immagine troppo grande!</string>
+    <string-array name="enum_status_array">
+        <item>@string/enum_status_IDEAL</item>
+        <item>@string/enum_status_ACCEPTABLE</item>
+        <item>@string/enum_status_HAS_PROBLEMS</item>
+    </string-array>
+</resources>
