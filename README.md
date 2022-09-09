@@ -2,6 +2,7 @@
 
 ## Screenshots
 
+![First screen](assets/screen1.png)
 <img alt="First screen" src="assets/screen1.png" width=256>
 <img alt="First screen with input" src="assets/screen2.png" width=256>
 <img alt="Board selection screen" src="assets/screen3.png" width=256>
